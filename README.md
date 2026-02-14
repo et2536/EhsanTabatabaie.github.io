@@ -1,8 +1,8 @@
 # Ehsan Tabatabaie | Engineering Portfolio
-# Napkin Holder presentation with different color for material selection
+# Wire Cutter model presentation
 
 ## 1. Project Overview
-This file contains the CAD design rendering for a Napkin holder. The goal was to present same model in a the same environment with different material.
+This file contains the CAD design rendering for a Wire Cutter.
 
 ## 2. Design Visuals
 Below are the rendering of the model.
