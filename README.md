@@ -1,17 +1,15 @@
 # Ehsan Tabatabaie | Engineering Portfolio
+# Napkin Holder presentation with different color for material selection
 
-Welcome to my portfolio! This repository showcases my work in Mechanical Engineering, CAD design, and FEA simulations.
+## 1. Project Overview
+This file contains the CAD design rendering for a Napkin holder. The goal was to present same model in a the same environment with different material.
 
-## My Engineering Projects
+## 2. Design Visuals
+Below are the rendering of the model.
 
-### 🔨 [Hammer Design & FEA Analysis](https://github.com/et2536/EhsanTabatabaie.github.io/blob/CAD/Hammer/README.md)
-* **Focus:** Material assignment, Center of Mass optimization, and Static Structural analysis.
-* **Tools:** CAD (SolidWorks/Fusion 360), ANSYS.
+![The design](01.JPG)
 
-### 🔧 [Laptop Pad Static Simulation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
-* **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
-* **Tools:** CAD (SolidWorks), Sheet Metal.
-
-### 🔧 [Laptop Pad Static Simulation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
-* **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
-* **Tools:** CAD (SolidWorks), Sheet Metal.
+| Another View of the pad  |   |
+| :---: | :---: |
+|![](02.JPG) | ![](03.JPG) |
+|![](04.JPG) | ![](05.JPG) |
