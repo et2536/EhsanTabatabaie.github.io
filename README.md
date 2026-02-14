@@ -2,10 +2,10 @@
 # Hammer Design & Analysis Project
 
 ## 1. Project Overview
-This file contains the CAD design and Finite Element Analysis (FEA) for a Claw Hammer. The goal was to design a real size hammer with proper material assignment that shift center of mass for the hammer while maintaining structural integrity.
+This file contains the CAD design and Finite Element Analysis (FEA) for a Claw Hammer. The goal was to design a real size hammer with proper material assignment for the hammer while maintaining structural integrity.
 
 ## 2. Design Visuals
-Below are the screenshots of the 3D model and the simulation results.
+Below are the screenshots of the 3D model.
 
 ### CAD Model
 ![Initial Design](01.png)
