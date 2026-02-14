@@ -17,6 +17,13 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 * **Tools:** CAD (SolidWorks), Rendering.
 
 
+### :nut_and_bolt: [Phone Holder Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/PhoneHolder/README.md)
+
+* **Tools:** CAD (SolidWorks), Rendering.
+
+
+
+
 ----------------------------------------------------------------------------------------
 
 🛠️ Engineering & Manufacturing
