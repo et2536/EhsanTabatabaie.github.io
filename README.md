@@ -22,7 +22,9 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 * **Tools:** CAD (SolidWorks), Rendering.
 
 
+### :hammer: WireCutter [Phone Holder Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/WireCutter/README.md)
 
+* **Tools:** CAD (SolidWorks), Rendering.
 
 ----------------------------------------------------------------------------------------
 
