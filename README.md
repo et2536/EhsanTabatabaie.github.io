@@ -6,10 +6,16 @@ This file contains the CAD design rendering for a Napkin holder. The goal was to
 
 ## 2. Design Visuals
 Below are the rendering of the model.
+<p align="center">
+  <img src="01.JPG" height="480" style="vertical-align:middle">
+</p>
 
-![The design](01.JPG)
+<p align="center">
+  <img src="02.JPG" height="480" style="margin-right: 10px;">
+  <img src="03.JPG" height="480">
+</p>
 
-| Another View of the pad  |   |
-| :---: | :---: |
-|![](02.JPG) | ![](03.JPG) |
-|![](04.JPG) | ![](05.JPG) |
+<p align="center">
+  <img src="04.JPG" width="45%" />
+  <img src="05.JPG" width="45%" />
+</p>
