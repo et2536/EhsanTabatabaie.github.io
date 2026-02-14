@@ -11,8 +11,8 @@ Below are the rendering of the model.
 </p>
 
 <p align="center">
-  <img src="02.png" height="480" style="margin-right: 10px;">
-  <img src="03.png" height="480">
+  <img src="02.png" height="240" style="margin-right: 10px;">
+  <img src="03.png" height="240">
 </p>
 
 <p align="center">
