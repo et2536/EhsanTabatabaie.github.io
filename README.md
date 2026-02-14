@@ -6,12 +6,32 @@ This file contains the CAD design rendering and 2D drawing for Phone/Camera Hold
 
 ## 2. Design Visuals
 Below are the rendering of the model.
+THe one for the Camera Has error. the grip is not needed.
 <p align="center">
-  <img src="Camera.png" height="480" style="margin-right: 10px;">
-  <img src="03.JPG" height="480">
+  <img src="Camera.JPG" height="480" style="margin-right: 10px;">
+  <img src="Phone.JPG" height="480">
 </p>
 
 <p align="center">
-  <img src="04.JPG" width="45%" />
-  <img src="05.JPG" width="45%" />
+  <img src="Camera_Support.JPG" width="45%" />
+  <img src="Phone_Support.JPG" width="45%" />
+</p>
+
+<p align="center">
+  <img src="For_Phone_Parts.PNG" height="480" style="margin-right: 10px;">
+</p>
+
+<p align="center">
+  <img src="Phone_Holder.PNG" width="45%" />
+  <img src="Phone_Adapt.PNG" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Mid_Section.PNG" width="45%" />
+  <img src="Lower_Side.PNG" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Back_Model.PNG" width="25%" />
+  <img src="Back.PNG" width="65%" />
 </p>
