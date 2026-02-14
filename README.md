@@ -36,8 +36,4 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 :rocket: → 🚀  :construction: → 🚧  :white_check_mark: → ✅  :heavy_check_mark: → ✔️  :x: → ❌  :warning: → ⚠️  :hourglass_flowing_sand: → ⏳
 
 💡 Ideas & Communication
-:bulb: → 💡  :memo: → 📝  :link: → 🔗  :book: → 📖
-
-:email: → 📧
-
-:world_map: → 🗺️
+:bulb: → 💡  :memo: → 📝  :link: → 🔗  :book: → 📖  :email: → 📧  :world_map: → 🗺️
