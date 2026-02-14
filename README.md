@@ -2,7 +2,7 @@
 # Hammer Design & Analysis Project
 
 ## 1. Project Overview
-This folder contains the CAD design and Finite Element Analysis (FEA) for a [Insert Hammer Type, e.g., Claw Hammer]. The goal was to [Insert Goal, e.g., minimize weight while maintaining structural integrity].
+This file contains the CAD design and Finite Element Analysis (FEA) for a Claw Hammer. The goal was to real size hammer with proper material assignment that creat a proper center of mass for the hammer while maintaining structural integrity.
 
 ## 2. Design Visuals
 Below are the screenshots of the 3D model and the simulation results.
