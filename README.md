@@ -27,60 +27,16 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 ----------------------------------------------------------------------------------------
 
 🛠️ Engineering & Manufacturing
-:hammer_and_wrench: → 🛠️
-
-:gear: → ⚙️
-
-:nut_and_bolt: → 🔩
-
-:wrench: → 🔧
-
-:hammer: → 🔨
-
-:triangular_ruler: → 📐
-
-:straight_ruler: → 📏
-
-:factory: → 🏭
+:hammer_and_wrench: → 🛠️  :gear: → ⚙️  :nut_and_bolt: → 🔩  :wrench: → 🔧  :hammer: → 🔨  :triangular_ruler: → 📐  :straight_ruler: → 📏  :factory: → 🏭
 
 💻 Software & Analysis
-:computer: → 💻
-
-:desktop_computer: → 🖥️
-
-:floppy_disk: → 💾
-
-:bar_chart: → 📊
-
-:chart_with_upwards_trend: → 📈
-
-:microscope: → 🔬
-
-:test_tube: → 🧪
+:computer: → 💻  :desktop_computer: → 🖥️  :floppy_disk: → 💾  :bar_chart: → 📊  :chart_with_upwards_trend: → 📈   :microscope: → 🔬  :test_tube: → 🧪
 
 🚀 Project Status
-:rocket: → 🚀
-
-:construction: → 🚧
-
-:white_check_mark: → ✅
-
-:heavy_check_mark: → ✔️
-
-:x: → ❌
-
-:warning: → ⚠️
-
-:hourglass_flowing_sand: → ⏳
+:rocket: → 🚀  :construction: → 🚧  :white_check_mark: → ✅  :heavy_check_mark: → ✔️  :x: → ❌  :warning: → ⚠️  :hourglass_flowing_sand: → ⏳
 
 💡 Ideas & Communication
-:bulb: → 💡
-
-:memo: → 📝
-
-:link: → 🔗
-
-:book: → 📖
+:bulb: → 💡  :memo: → 📝  :link: → 🔗  :book: → 📖
 
 :email: → 📧
 
