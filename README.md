@@ -10,4 +10,8 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 
 ### 🔧 [Laptop Pad Static Simulation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
 * **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
-* * **Tools:** CAD (SolidWorks), Sheet Metal.
+* **Tools:** CAD (SolidWorks), Sheet Metal.
+
+### 🔧 [Laptop Pad Static Simulation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
+* **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
+* **Tools:** CAD (SolidWorks), Sheet Metal.
