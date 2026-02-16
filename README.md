@@ -9,7 +9,7 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 * **Tools:** CAD (SolidWorks), ANSYS.
 
 ### :construction: [Laptop Pad](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
-* **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
+* **Focus:** Device made by sheet metal forming, adjustable size.
 * **Tools:** CAD (SolidWorks), Sheet Metal.
 
 ### :bulb: [Napkin Holder Color Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Napkin/README.md)
