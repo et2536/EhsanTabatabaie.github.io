@@ -1,41 +1,21 @@
 # Ehsan Tabatabaie | Engineering Portfolio
+# Initial Steps in designing a thermoform tool for a cake container
 
-Welcome to my portfolio! This repository showcases my work in Mechanical Engineering, CAD design, and FEA simulations.
+## 1. Project Overview
+This file contains the CAD design rendering for a Napkin holder. The goal was to present same model in a the same environment with different material.
 
-## My Engineering Projects
+## 2. Design Visuals
+Below are the rendering of the model.
+<p align="center">
+  <img src="01.JPG" height="480" style="vertical-align:middle">
+</p>
 
-### :hammer: [Hammer Design & FEA Analysis](https://github.com/et2536/EhsanTabatabaie.github.io/blob/CAD/Hammer/README.md)
-* **Focus:** Material assignment, Center of Mass optimization, and Static Structural analysis.
-* **Tools:** CAD (SolidWorks/Fusion 360), ANSYS.
+<p align="center">
+  <img src="02.JPG" height="480" style="margin-right: 10px;">
+  <img src="03.JPG" height="480">
+</p>
 
-### :construction: [Laptop Pad](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
-* **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
-* **Tools:** CAD (SolidWorks), Sheet Metal.
-
-### :bulb: [Napkin Holder Color Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Napkin/README.md)
-
-* **Tools:** CAD (SolidWorks), Rendering.
-
-
-### :nut_and_bolt: [Phone Holder Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/PhoneHolder/README.md)
-
-* **Tools:** CAD (SolidWorks), Rendering.
-
-
-### :hammer: [WireCutter](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/WireCutter/README.md)
-
-* **Tools:** CAD (SolidWorks), Rendering.
-
-----------------------------------------------------------------------------------------
-
-🛠️ Engineering & Manufacturing
-:hammer_and_wrench: → 🛠️  :gear: → ⚙️  :nut_and_bolt: → 🔩  :wrench: → 🔧  :hammer: → 🔨  :triangular_ruler: → 📐  :straight_ruler: → 📏  :factory: → 🏭
-
-💻 Software & Analysis
-:computer: → 💻  :desktop_computer: → 🖥️  :floppy_disk: → 💾  :bar_chart: → 📊  :chart_with_upwards_trend: → 📈   :microscope: → 🔬  :test_tube: → 🧪
-
-🚀 Project Status
-:rocket: → 🚀  :construction: → 🚧  :white_check_mark: → ✅  :heavy_check_mark: → ✔️  :x: → ❌  :warning: → ⚠️  :hourglass_flowing_sand: → ⏳
-
-💡 Ideas & Communication
-:bulb: → 💡  :memo: → 📝  :link: → 🔗  :book: → 📖  :email: → 📧  :world_map: → 🗺️
+<p align="center">
+  <img src="04.JPG" width="45%" />
+  <img src="05.JPG" width="45%" />
+</p>
