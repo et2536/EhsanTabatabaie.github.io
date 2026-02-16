@@ -1,12 +1,12 @@
 # Ehsan Tabatabaie | Engineering Portfolio
-#A holder for phone and Camera presentation
+# A holder for phone and Camera presentation
 
 ## 1. Project Overview
-This file contains the CAD design rendering and 2D drawing for Phone/Camera Holder.
+This file contains the CAD design rendering and 2D drawing for **Phone/Camera Holder**.
 
 ## 2. Design Visuals
-Below are the rendering of the model.
-THe one for the Camera Has error. the grip is not needed.
+Below are the **renderings** of the model.
+The one for the Camera Has an error. the grip is not needed.
 <p align="center">
   <img src="Camera.JPG" height="480" style="margin-right: 10px;">
   <img src="Phone.JPG" height="480">
