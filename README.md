@@ -8,7 +8,7 @@ So faar the process containe creation of initial step for one side of thecontain
 **As the initial step we need the input from customer**
 * **Purpose**: Protective packaging
 * **Mechanical stresses**: Impact , compression, and vibration resistance.
-* **Thermal environment**: Operating temperature range of 20 to 120.
+* **Thermal environment**: Operating temperature range of 20 to 120 farenhight.
 * **Chemical exposure**: Resistance to moisture, solvents, or other chemicals.
 * **Size and shape**: Holds 6 count of one sixth of a 10 inch cake with a height of 2 inches .
 * **Aesthetic considerations**: Surface finish, color, texture.
@@ -33,11 +33,9 @@ Explanation of Terms:
 * **Popularity**: Common usage level in the food packaging industry.
 
 From this table it seems the first choise is ***Polyethylene Terephthalate (PET)/PETG*** for the material, due to its **Recyclability**, **Transparency**, and **Mechanical Strength**.
+			
 
-|![A loptop on the Cooling Pad](3D.JPG) | ![A loptop on the Cooling Pad](preview.JPG) |
-					
-
-## 2. Design Visuals
+## Design 
 **Steps:**
 *	1- Creation of a representive of the food item: I created a simplified version of the item to put into the thermoset package : One sixth of a 10 inches cake with height of 2 inches.
 * 	2- Arrangment in the package: Put the item into an assembly with arrangment of six of them.
@@ -49,8 +47,27 @@ From this table it seems the first choise is ***Polyethylene Terephthalate (PET)
 Since for the majority of Cakes the final designs are cicular, here the packaging considered to be circular for aththetic aperance and customer satifaction. In this aarangment there is an offese between slices of the Cake.
 
 
-* 3- Tool Considerations:
-* 
+* 3- Tool Considerations
+  **Draft angle**: The final tool needs to have draft andgle for the ease of part separation.
+
+| minimume draft angle | female featurs | male featurs |
+| :---: | :---: | :---: |
+| 1 to 2 degrees | 1.5 to 2 degrees | 4 to 6 degrees |
+With general recomendation of 5 degree for draft angle
+
+Since the tool will be derived  directly from the part, the general recomendation of 5 degree for draft angle will be applied to the part.
+Since the parting line in the package is a parametric value, the draft andle will be in both negative and positive directions. One is for the lower half of the package and the other one for the other side.
+
+**Parting line**: The parting line considered to be 0.5 inches from the bottom surface, means half of the inches of the foor item will remaine in the package after opening.
+| Parts with draft for lower part and upper part in the assembly | Circular pattern of the items for assurance of proper arrangement of the assembly | 
+| :---: | :---: |
+|![A loptop on the Cooling Pad](Cake_Container%202_BothSidesDrafted_Adjusting.PNG) | ![A loptop on the Cooling Pad](Cake_Container%202_BothSidesDrafted.PNG) |
+
+**Connection and consistancy in the design**
+The separation level defined in the assembly using a plane. In the case changing the separation ling the height of this plane can be modified.
+Both upper part and lwer part will be initiated as a part in the assembly with initial reference to the items in the assembly. This way in the case of modifications the rest will be updated or there will be less effor in keeping things in order.
+
+
 
 <p align="center">
 	<img src="Cake_Container 2.PNG" width="30%" />
