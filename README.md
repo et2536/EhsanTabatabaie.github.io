@@ -5,7 +5,7 @@
 This file contains the CAD design rendering for a Wire Cutter.
 
 ## 2. Design Visuals
-Below are the rendering of the model.
+Below are the image of the model in the CAD environment.
 <p align="center">
   <img src="01.png" height="480" style="vertical-align:middle">
 </p>
