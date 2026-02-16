@@ -38,10 +38,44 @@ From this table it seems the first choise is ***Polyethylene Terephthalate (PET)
 					
 
 ## 2. Design Visuals
-* Steps: 	
-1- I created a simplified version of the item to put into the thermoset package
-	One sixth of a 10 inches cake with height of 2 inches
-2- Put the item into an assembly and then created the package around it with an offset tool.
+**Steps:**
+*	1- I created a simplified version of the item to put into the thermoset package : One sixth of a 10 inches cake with height of 2 inches.
+* 	2- Put the item into an assembly with arrangment of six of them.
+
+| ![Top View](Cake_Container%202.PNG) | ![Side View](Cake_Container%203.PNG) | ![Internal](Cake_Container%204.PNG) |
+| :---: | :---: | :---: |
+| Circular Arrangment: Good for presentation | Triangle packaging: New style | Rectangular presentation: better for packaging and transportatoin |
+
+
+Since for the majority of Cakes the final designs are cicular, here the packaging considered to be circular for aththetic aperance and customer satifaction.
+
+
+<p align="center">
+	<img src="Cake_Container 2.PNG" width="30%" />
+	<img src="Cake_Container 3.PNG" width="30%" />
+	<img src="Cake_Container 4.PNG" width="30%" />
+</p>
+
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; text-align: center; width: 33%;">
+      <img src="Cake_Container 2.PNG" width="100%"><br>
+      <em>Top View of Assembly</em>
+    </td>
+    <td style="border: none; text-align: center; width: 33%;">
+      <img src="Cake_Container 3.PNG" width="100%"><br>
+      <em>Side Perspective</em>
+    </td>
+    <td style="border: none; text-align: center; width: 33%;">
+      <img src="Cake_Container 4.PNG" width="100%"><br>
+      <em>Internal Clearance</em>
+    </td>
+  </tr>
+</table>
+
+*
+* 	 and then created the package around it with an offset tool.
 Consideration: 
 Here the customer input is needed: the type of packaging, How should the container be with respect to the item? Here I considered one eighth ( 1 / 8 ) of inches should be a proper combination of flexibility and handling the item inside the packaging
 
@@ -67,10 +101,7 @@ Below are the rendering of the model.
   <img src="01.JPG" height="480" style="vertical-align:middle">
 </p>
 
-<p align="center">
-  <img src="02.JPG" height="480" style="margin-right: 10px;">
-  <img src="03.JPG" height="480">
-</p>
+
 
 <p align="center">
   <img src="04.JPG" width="45%" />
