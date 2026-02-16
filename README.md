@@ -26,7 +26,7 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 
 * **Tools:** CAD (SolidWorks), Rendering.
 
-### :hammer: [Cake Container Thrmoform](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Thermoform_Cake/README.md)
+### :hammer: [Cake Container Thermoform](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Thermoform_Cake/README.md)
 
 * **Tools:** CAD (SolidWorks), Surface modeling, Thrmoform.
 
