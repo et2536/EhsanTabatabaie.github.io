@@ -1,5 +1,5 @@
 # Ehsan Tabatabaie | Engineering Portfolio
-# An initial Step in Designing a Thermoform Tool for a Cake Container
+# An Initial Step in Designing a Thermoform Tool for a Cake Container
 
 ## Project Overview
 This page documents the process I took to initiate the CAD design for a thermoforming tool. The goal was to create a **parametric model** for this tool. So far, the process includes the creation of the initial steps for one side of the container.
@@ -42,7 +42,7 @@ Based on this table, the primary choice is **Polyethylene Terephthalate (PET/PET
 | :---: | :---: | :---: |
 | Circular Arrangement: Good for presentation | Triangle packaging: New style | Rectangular presentation: better for packaging and transportation |
 
-Since for the majority of Cakes the final Cake designs are circular, here the packaging considered to be circular for aesthetic appearance and customer satifaction. In this arrangement there is an offset between slices of the Cake.
+Since the majority of cakes designs are circular, here the packaging is considered to be circular for aesthetic appearance and customer satisfaction. In this arrangement there is an offset between slices of the Cake.
 
 3- **Tool Considerations**:
   **Draft angle**: The final tool requires a draft angle for ease of part separation.
@@ -52,7 +52,7 @@ Since for the majority of Cakes the final Cake designs are circular, here the pa
 | 1 to 2 degrees | 1.5 to 2 degrees | 4 to 6 degrees |
 
 ***General recommendation of 5 degrees for draft angle***
-Since the parting line is a parametric value, the draft angle will be applied in both positive and negative directions for the upper and lower halves of the package.
+Since the parting line is a parametric value, the draft angle will be applied in both positive and negative directions for the upper and lower side of the package.
 
 **Parting line**: The parting line considered to be **0.5 inches** from the bottom surface, meaning a half-inch of the food item remains in the lower package base after opening.
 | Parts with draft for lower part and upper part in the assembly | Circular pattern of the items for assurance of proper arrangement of the assembly | 
@@ -60,8 +60,8 @@ Since the parting line is a parametric value, the draft angle will be applied in
 |![Cake_Container 202_BothSidesDrafted_Adjusting](Cake_Container%202_BothSidesDrafted_Adjusting.PNG) | ![Cake_Container 202_BothSidesDrafted](Cake_Container%202_BothSidesDrafted.PNG) |
 
 **Connection and consistency in the design**
-The separation level defined in the assembly using a plane. In the case changing the separation line the height of this plane can be modified.
-Both upper part and lower part will be initiated as a part in the assembly with initial reference to the items in the assembly. This way in the case of modifications the rest will be updated or there will be less effort in keeping things in order.
+The separation level defined in the assembly using a plane. In the case of changing the separation line the height of this plane can be modified.
+Both the upper and lower parts will be initiated as a part in the assembly with initial reference to the items in the assembly. This way in the case of modifications the rest will be updated or there will be less effort in keeping things in order.
 
 * 4 - Lower part of the container
 
@@ -70,7 +70,7 @@ Both upper part and lower part will be initiated as a part in the assembly with 
 |![Container^Cake_Container 2_LowerSide_HalfWallCutSketch](Container^Cake_Container%202_LowerSide_HalfWallCutSketch.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_2](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_2.PNG) | [Container^Cake_Container 2_LowerSide_HalfWallCutSketch_3](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_3.PNG) |
 
 
-|Circular pattern will create the whole lower part out line | In the case of missing a surface it can be easily added | 
+|Circular pattern will create the whole lower part outline | In the case of missing a surface it can be easily added | 
 | :---: | :---: |
 |![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_4](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_4.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_5](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_5.PNG) | 
   
@@ -78,12 +78,12 @@ Both upper part and lower part will be initiated as a part in the assembly with 
 | :---: | :---: |
 |![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_6](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_6.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_7](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_7.PNG) |
 
-THe final part created by knitting the surfaces representing one sixth of the whole structure and circular pattern the result creating a new knitted surface.
-So far the consideration was for very fit package of the food item which is not a very correct design as the the food item need to have some gap for ease taking out.
-In order to create this scenario the actual food item needs to be scaled up a considered to be slightly larger. Here in oder to check the parametric functionality of the the design the Cake size changed to slices of 12 inches Cake. The modification applied to the initial input and by some fixes the final surface correctly created.
+The final part created by knitting the surfaces representing one sixth of the whole structure and circular pattern the result creating a new knitted surface.
+So far the consideration was for very fit package of the food item which is not a very correct design as the the food item needs to have some gap for ease of taking it out.
+In order to create this scenario the actual food item needs to be scaled up and considered to be slightly larger. Here in oder to check the parametric functionality of the the design the Cake size changed to slices of 12 inches Cake. The modification applied to the initial input and by some fixes the final surface correctly created.
 Here is the result based on input of a 12 inches Cake. 
 ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_8](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_8.PNG)
 
-The surface need fillets and a thickness of 0.005 inches to be used to create the tool.
+The surface needss fillets and a thickness of 0.005 inches to be used to create the tool.
 This surface will be part of the design process for the upper side of the container, particularly for the shared area and region of contact.
 
