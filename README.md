@@ -85,6 +85,6 @@ In order to create this scenario the actual food item needs to be scaled up and 
 Here is the result based on input of a 12 inches Cake. 
 ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_8](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_8.PNG)
 
-The surface needss fillets and a thickness of 0.005 inches to be used to create the tool.
+The surface needs fillets and a thickness of 0.005 inches to be used to create the tool.
 This surface will be part of the design process for the upper side of the container, particularly for the shared area and region of contact.
 
