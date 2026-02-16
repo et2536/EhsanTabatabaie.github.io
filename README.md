@@ -43,7 +43,7 @@ Based on this table, the primary choice is **Polyethylene Terephthalate (PET/PET
 | :---: | :---: | :---: |
 | Circular Arrangement: Good for presentation | Triangle packaging: New style | Rectangular presentation: better for packaging and transportation |
 
-Since the majority of cakes designs are circular, here the packaging is considered to be circular for aesthetic appearance and customer satisfaction. In this arrangement there is an offset between slices of the Cake.
+Since the majority of cake designs are circular, here the packaging is considered to be circular for aesthetic appearance and customer satisfaction. In this arrangement there is an offset between slices of the Cake.
 
 3- **Tool Considerations**:
   **Draft angle**: The final tool requires a draft angle for ease of part separation.
@@ -52,7 +52,7 @@ Since the majority of cakes designs are circular, here the packaging is consider
 | :---: | :---: | :---: |
 | 1 to 2 degrees | 1.5 to 2 degrees | 4 to 6 degrees |
 
-***General recommendation of 5 degrees for draft angle***
+***General recommendation of 5 degrees for the draft angle***
 Since the parting line is a parametric value, the draft angle will be applied in both positive and negative directions for the upper and lower side of the package.
 
 **Parting line**: The parting line considered to be **0.5 inches** from the bottom surface, meaning a half-inch of the food item remains in the lower package base after opening.
@@ -66,7 +66,7 @@ Both the upper and lower parts will be initiated as a part in the assembly with 
 
 4- **Lower part of the container**
 
-| It started by taking offset surface with zero distance from the original part | Then Creation of a trim surface to include small extended separation wall | Trimming to final sizes |
+| The process started by taking an offset surface with zero distance from the original part | Then Creation of a trim surface to include small extended separation wall | Trimming to final sizes |
 | :---: | :---: | :---: |
 |![Container^Cake_Container 2_LowerSide_HalfWallCutSketch](Container^Cake_Container%202_LowerSide_HalfWallCutSketch.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_2](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_2.PNG) | [Container^Cake_Container 2_LowerSide_HalfWallCutSketch_3](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_3.PNG) |
 
@@ -81,8 +81,8 @@ Both the upper and lower parts will be initiated as a part in the assembly with 
 
 The final part created by knitting the surfaces representing one sixth of the whole structure and circular pattern the result creating a new knitted surface.
 So far the consideration was for very fit package of the food item which is not a very correct design as the the food item needs to have some gap for ease of taking it out.
-In order to create this scenario the actual food item needs to be scaled up and considered to be slightly larger. Here in oder to check the parametric functionality of the the design the Cake size changed to slices of 12 inches Cake. The modification applied to the initial input and by some fixes the final surface correctly created.
-Here is the result based on input of a 12 inches Cake. 
+In order to create this scenario the actual food item needs to be scaled up and considered to be slightly larger. Here in order to check the parametric functionality of the the design the Cake size changed to slices of 12-inche Cake. The modification was applied to the initial input and by some fixes the final surface correctly created.
+Here is the result based on input of a 12-inche Cake. 
 ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_8](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_8.PNG)
 
 The surface needs fillets and a thickness of 0.005 inches to be used to create the tool.
