@@ -10,7 +10,7 @@ So faar the process containe creation of initial step for one side of thecontain
 * **Mechanical stresses**: Impact , compression, and vibration resistance.
 * **Thermal environment**: Operating temperature range of 20 to 120 farenhight.
 * **Chemical exposure**: Resistance to moisture, solvents, or other chemicals.
-* **Size and shape**: Holds 6 count of one sixth of a 10 inch cake with a height of 2 inches .
+* **Size and shape**: Holds 6 count of one sixth of a 10 inche cake with a height of 2 inches .
 * **Aesthetic considerations**: Surface finish, color, texture.
 
 ## Materials
@@ -53,7 +53,8 @@ Since for the majority of Cakes the final designs are cicular, here the packagin
 | minimume draft angle | female featurs | male featurs |
 | :---: | :---: | :---: |
 | 1 to 2 degrees | 1.5 to 2 degrees | 4 to 6 degrees |
-With general recomendation of 5 degree for draft angle
+
+***With general recomendation of 5 degrees for draft angle***
 
 Since the tool will be derived  directly from the part, the general recomendation of 5 degree for draft angle will be applied to the part.
 Since the parting line in the package is a parametric value, the draft andle will be in both negative and positive directions. One is for the lower half of the package and the other one for the other side.
@@ -61,68 +62,33 @@ Since the parting line in the package is a parametric value, the draft andle wil
 **Parting line**: The parting line considered to be 0.5 inches from the bottom surface, means half of the inches of the foor item will remaine in the package after opening.
 | Parts with draft for lower part and upper part in the assembly | Circular pattern of the items for assurance of proper arrangement of the assembly | 
 | :---: | :---: |
-|![A loptop on the Cooling Pad](Cake_Container%202_BothSidesDrafted_Adjusting.PNG) | ![A loptop on the Cooling Pad](Cake_Container%202_BothSidesDrafted.PNG) |
+|![Cake_Container 202_BothSidesDrafted_Adjusting](Cake_Container%202_BothSidesDrafted_Adjusting.PNG) | ![Cake_Container 202_BothSidesDrafted](Cake_Container%202_BothSidesDrafted.PNG) |
 
 **Connection and consistancy in the design**
 The separation level defined in the assembly using a plane. In the case changing the separation ling the height of this plane can be modified.
 Both upper part and lwer part will be initiated as a part in the assembly with initial reference to the items in the assembly. This way in the case of modifications the rest will be updated or there will be less effor in keeping things in order.
 
+* 4 - Lower part of the container
+
+| It started by taking offset surface with zero distance from the original part | Then Creation of a trem surface to include small extended separation wall | Trimming to final sizes |
+| :---: | :---: | :---: |
+|![Container^Cake_Container 2_LowerSide_HalfWallCutSketch](Container^Cake_Container%202_LowerSide_HalfWallCutSketch.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_2](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_2.PNG) | [Container^Cake_Container 2_LowerSide_HalfWallCutSketch_3](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_3.PNG) |
 
 
-<p align="center">
-	<img src="Cake_Container 2.PNG" width="30%" />
-	<img src="Cake_Container 3.PNG" width="30%" />
-	<img src="Cake_Container 4.PNG" width="30%" />
-</p>
+|Circular pattern will creat the whole lower part out line | In the case of missing a surface it can be easily added | 
+| :---: | :---: |
+|![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_4](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_4.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_5](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_5.PNG) | 
+  
+|Completing the adjacent wall | Adding the lock mechanism | 
+| :---: | :---: |
+|![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_6](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_6.PNG) | ![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_7](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_7.PNG) |
 
+THe final part created by knitting the surfces representing one sith of the whole structure and circular pattern the result creating a new knetted surface.
+So far the consideration was for very fit package of the food item which is not a very correct desigen as the the food item need to have some gap for ease taking out.
+In order to create tis scenario the actual food item needs to be scaled up a considered to be slightly larger. Here inoder to check the paramteric functionality of the the design the Ckae size changed to slices of 12 inches Cake. The modification applied to the initial input and by some fixes the final surface correctly created.
+Here is the result based on input of a 12 inches cake. 
+![Container^Cake_Container 2_LowerSide_HalfWallCutSketch_8](Container^Cake_Container%202_LowerSide_HalfWallCutSketch_8.PNG)
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; text-align: center; width: 33%;">
-      <img src="Cake_Container 2.PNG" width="100%"><br>
-      <em>Top View of Assembly</em>
-    </td>
-    <td style="border: none; text-align: center; width: 33%;">
-      <img src="Cake_Container 3.PNG" width="100%"><br>
-      <em>Side Perspective</em>
-    </td>
-    <td style="border: none; text-align: center; width: 33%;">
-      <img src="Cake_Container 4.PNG" width="100%"><br>
-      <em>Internal Clearance</em>
-    </td>
-  </tr>
-</table>
+The surface need fillets and a thickness of 0.005 inches to be used to create the tool.
+This surface will be part of the design process for the upper side of the container, particularly for the shared area and region of contact.
 
-*
-* 	 and then created the package around it with an offset tool.
-Consideration: 
-Here the customer input is needed: the type of packaging, How should the container be with respect to the item? Here I considered one eighth ( 1 / 8 ) of inches should be a proper combination of flexibility and handling the item inside the packaging
-
-3- Packaging separation height.
-The created shell around the item should be opened. The height of remaining the item inside the package highly depends on the customer’s proposed application.
-A retail market: The food item should be highly exposed after opening for the ease of access.
-	The separation height should be around 0.5 of inches.
-A person using the package: The food item should be secure even after opening the container.
-	The separation height should be around 1 inch.
-A special customer: The food item should be secure even after opening the container and be easily accessible.
-	The separation height should be around 1 inch and extra features added to the container.
-
-Assume the customer is a retail market.
-So from the bottom of the shell I created an offset of 0.5 inch for the separator plane.
-
-
-4- I hid the upper part and created work on the lower part of the container making the structure using surface modeling.
-Adding features to the lower part of the container while avoiding adding dimension to the model and maintaining the fully constrained sketches.
-
-
-Below are the rendering of the model.
-<p align="center">
-  <img src="01.JPG" height="480" style="vertical-align:middle">
-</p>
-
-
-
-<p align="center">
-  <img src="04.JPG" width="45%" />
-  <img src="05.JPG" width="45%" />
-</p>
