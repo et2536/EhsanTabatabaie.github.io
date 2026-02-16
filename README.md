@@ -36,6 +36,7 @@ Based on this table, the primary choice is **Polyethylene Terephthalate (PET/PET
 
 ## Design Steps
 1- **Creation of a representative of the food item**: I created a simplified version of the item for the thermoform package: one-sixth of a 10-inch cake with a height of 2 inches.
+
 2- **Arrangement in the package**: The items were placed into an assembly with an arrangement of six slices.
 
 | ![Top View](Cake_Container%202.PNG) | ![Side View](Cake_Container%203.PNG) | ![Internal](Cake_Container%204.PNG) |
@@ -63,7 +64,7 @@ Since the parting line is a parametric value, the draft angle will be applied in
 The separation level defined in the assembly using a plane. In the case of changing the separation line the height of this plane can be modified.
 Both the upper and lower parts will be initiated as a part in the assembly with initial reference to the items in the assembly. This way in the case of modifications the rest will be updated or there will be less effort in keeping things in order.
 
-* 4 - Lower part of the container
+4- **Lower part of the container**
 
 | It started by taking offset surface with zero distance from the original part | Then Creation of a trim surface to include small extended separation wall | Trimming to final sizes |
 | :---: | :---: | :---: |
