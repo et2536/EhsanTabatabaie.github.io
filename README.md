@@ -5,8 +5,8 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 ## My Engineering Projects
 
 ### :hammer: [Hammer Design & FEA Analysis](https://github.com/et2536/EhsanTabatabaie.github.io/blob/CAD/Hammer/README.md)
-* **Focus:** Material assignment, Center of Mass optimization, and Static Structural analysis.
-* **Tools:** CAD (SolidWorks/Fusion 360), ANSYS.
+* **Focus:** Material assignment, realistic design, and static structural analysis.
+* **Tools:** CAD (SolidWorks), ANSYS.
 
 ### :construction: [Laptop Pad](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
 * **Focus:** Stress distribution and Factor of Safety (FoS) evaluation under torque loads.
@@ -14,15 +14,15 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 
 ### :bulb: [Napkin Holder Color Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Napkin/README.md)
 
-* **Tools:** CAD (SolidWorks), Rendering.
+* **Tools:** CAD (SolidWorks), Rendering a plastic part.
 
 
 ### :nut_and_bolt: [Phone Holder Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/PhoneHolder/README.md)
 
-* **Tools:** CAD (SolidWorks), Rendering.
+* **Tools:** CAD (SolidWorks), Rendering, BOM, Sequesnce assembly, 2D drawing.
 
 
-### :hammer: [WireCutter](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/WireCutter/README.md)
+### :hammer: [Wire Cutter](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/WireCutter/README.md)
 
 * **Tools:** CAD (SolidWorks), Rendering.
 
