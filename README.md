@@ -39,16 +39,18 @@ From this table it seems the first choise is ***Polyethylene Terephthalate (PET)
 
 ## 2. Design Visuals
 **Steps:**
-*	1- I created a simplified version of the item to put into the thermoset package : One sixth of a 10 inches cake with height of 2 inches.
-* 	2- Put the item into an assembly with arrangment of six of them.
+*	1- Creation of a representive of the food item: I created a simplified version of the item to put into the thermoset package : One sixth of a 10 inches cake with height of 2 inches.
+* 	2- Arrangment in the package: Put the item into an assembly with arrangment of six of them.
 
 | ![Top View](Cake_Container%202.PNG) | ![Side View](Cake_Container%203.PNG) | ![Internal](Cake_Container%204.PNG) |
 | :---: | :---: | :---: |
 | Circular Arrangment: Good for presentation | Triangle packaging: New style | Rectangular presentation: better for packaging and transportatoin |
 
+Since for the majority of Cakes the final designs are cicular, here the packaging considered to be circular for aththetic aperance and customer satifaction. In this aarangment there is an offese between slices of the Cake.
 
-Since for the majority of Cakes the final designs are cicular, here the packaging considered to be circular for aththetic aperance and customer satifaction.
 
+* 3- Tool Considerations:
+* 
 
 <p align="center">
 	<img src="Cake_Container 2.PNG" width="30%" />
