@@ -19,7 +19,7 @@ The goal was to creat the most effective design approache. Since there is no aes
 
 | Initial Desing with thickness of 10 mm  | FEA simulation result | 
 | :---: | :---: |
-|![Container^Cake_Container 2_LowerSide_HalfWallCutSketch](Container^Cake_Container%202_LowerSide_HalfWallCutSketch.PNG)| ![Bracket_01_01](Bracket_01_01.PNG)|
+|![Bracket_01_01](Bracket_01_00.PNG)| ![Bracket_01_01](Bracket_01_01.PNG)|
 
 The stress distribution shows the area of the plate with higher stress leve regardless of the statuse of passing the Yield point.
 
@@ -45,7 +45,14 @@ The stress distribution shows the area of the plate with higher stress leve rega
 | :---: | :---: |
 |![Bracket_01_10_Tto2](Bracket_01_10_Tto2.PNG)| ![Bracket_01_1](Bracket_01_11.PNG)|
 
-Final version 
-![Bracket_01_12](Bracket_01_12.PNG)
+Final version with aluminum
+| FEA Stress result to 2 mm | FEA results for the improved version | 
+| :---: | :---: |
+|![Bracket_01_12](Bracket_01_12.PNG)|![Bracket_01_12_01](Bracket_01_12_01.PNG)|
+
+Alternate version with PE high density
+| ![Bracket_01_12_01_PEHD](Bracket_01_12_01_PEHD.PNG)| ![Bracket_01_12_01_PEHD_LC](Bracket_01_12_01_PEHD_LC.PNG) | 
+| :---: | :---: |
+| ![Bracket_01_12_01_PEHD_NF](Bracket_01_12_01_PEHD_NF.PNG)| ![Bracket_01_12_01_PEHD_URes](Bracket_01_12_01_PEHD_URes.PNG) | 
 
 
