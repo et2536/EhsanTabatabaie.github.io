@@ -1,45 +1,51 @@
 # Ehsan Tabatabaie | Engineering Portfolio
 
-Welcome to my portfolio! This repository showcases my work in Mechanical Engineering, CAD design, and FEA simulations.
+## A Bracket for a Toy car
 
-## My Engineering Projects
+In this page I am demonstrating the steps I took to design a bracket of toy car.
 
-### :hammer: [Hammer Design & FEA Analysis](https://github.com/et2536/EhsanTabatabaie.github.io/blob/CAD/Hammer/README.md)
-* **Focus:** Material assignment, realistic design, and static structural analysis.
-* **Tools:** CAD (SolidWorks), ANSYS.
+![Bracket_generated-image](Bracket_generated-image.png)
 
-### :construction: [Laptop Pad](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Laptop-Pad/README.md)
-* **Focus:** Device made by sheet metal forming, adjustable size.
-* **Tools:** CAD (SolidWorks), Sheet Metal.
+## Design considerations
+- Each spring will apply load of 10kgf at most
+- Minimume Factor of Safety 2
+- Materila: AL-Alloy 1060
+- Electric motor has the MAX RPM 1500
 
-### :bulb: [Napkin Holder Color Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Napkin/README.md)
+## Design considerations
 
-* **Tools:** CAD (SolidWorks), Rendering a plastic part.
-
-
-### :nut_and_bolt: [Phone Holder Presentation](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/PhoneHolder/README.md)
-
-* **Tools:** CAD (SolidWorks), Rendering, BOM, Sequesnce assembly, 2D drawing.
+The goal was to creat the most effective design approache. Since there is no aesthetic consideration form customer. 
 
 
-### :hammer: [Wire Cutter](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/WireCutter/README.md)
+| Initial Desing with thickness of 10 mm  | FEA simulation result | 
+| :---: | :---: |
+|![Container^Cake_Container 2_LowerSide_HalfWallCutSketch](Container^Cake_Container%202_LowerSide_HalfWallCutSketch.PNG)| ![Bracket_01_01](Bracket_01_01.PNG)|
 
-* **Tools:** CAD (SolidWorks), Rendering.
+The stress distribution shows the area of the plate with higher stress leve regardless of the statuse of passing the Yield point.
 
-### :hammer: [Cake Container Thermoform](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/Thermoform_Cake/README.md)
+| Area of the bracket that endur stress  | Implementing the design using stress distribution diagram | 
+| :---: | :---: |
+|![Bracket_01_02](Bracket_01_02.PNG)| ![Bracket_01_03](Bracket_01_03.PNG)|
 
-* **Tools:** CAD (SolidWorks), Surface modeling, Thermoforming.
+| Resultant Bracket and reducing the thickness to 5 mm reducing the weight  | FEA results for the factor of safety | 
+| :---: | :---: |
+|![Bracket_01_04](Bracket_01_04.PNG)| ![Bracket_01_05_Tto5](Bracket_01_05_Tto5.PNG)|
 
-----------------------------------------------------------------------------------------
+| FEA Stress result  | FEA results for the improved version | 
+| :---: | :---: |
+|![Bracket_01_06](Bracket_01_06.PNG)| ![Bracket_01_07](Bracket_01_07.PNG)|
 
-🛠️ Engineering & Manufacturing
-:hammer_and_wrench: → 🛠️  :gear: → ⚙️  :nut_and_bolt: → 🔩  :wrench: → 🔧  :hammer: → 🔨  :triangular_ruler: → 📐  :straight_ruler: → 📏  :factory: → 🏭
 
-💻 Software & Analysis
-:computer: → 💻  :desktop_computer: → 🖥️  :floppy_disk: → 💾  :bar_chart: → 📊  :chart_with_upwards_trend: → 📈   :microscope: → 🔬  :test_tube: → 🧪
+| FEA Stress result  | FEA results for the improved version | 
+| :---: | :---: |
+|![Bracket_01_08](Bracket_01_08.PNG)| ![Bracket_01_09](Bracket_01_09.PNG)|
 
-🚀 Project Status
-:rocket: → 🚀  :construction: → 🚧  :white_check_mark: → ✅  :heavy_check_mark: → ✔️  :x: → ❌  :warning: → ⚠️  :hourglass_flowing_sand: → ⏳
 
-💡 Ideas & Communication
-:bulb: → 💡  :memo: → 📝  :link: → 🔗  :book: → 📖  :email: → 📧  :world_map: → 🗺️
+| FEA Stress result to 2 mm | FEA results for the improved version | 
+| :---: | :---: |
+|![Bracket_01_10_Tto2](Bracket_01_10_Tto2.PNG)| ![Bracket_01_1](Bracket_01_11.PNG)|
+
+Final version 
+![Bracket_01_12](Bracket_01_12.PNG)
+
+
