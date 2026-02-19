@@ -4,6 +4,13 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 
 ## My Engineering Projects
 
+
+### :hammer: [Bracket design](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/BracketToyCar/README.md)
+* **Focus:** Raw Concept, FEA approache.
+* **Tools:** CAD (SolidWorks).
+
+
+
 ### :hammer: [Hammer Design & FEA Analysis](https://github.com/et2536/EhsanTabatabaie.github.io/blob/CAD/Hammer/README.md)
 * **Focus:** Material assignment, realistic design, and static structural analysis.
 * **Tools:** CAD (SolidWorks), ANSYS.
