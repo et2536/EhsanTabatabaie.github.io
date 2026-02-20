@@ -74,7 +74,7 @@ Reducing the thickness of the material from 3mm to 2mm improve weight lost in th
 ## Alternative considerations
 If the manufacturer want to go with a materila with lower cost using High Density Polyethylene can be a good alternative with [Yield Strength (8 MPa), Ultimate Tensile Strength (15 MPa), and Compressive Strength (20 MPa)](https://www.engineercalculator.com/polymer-plastic-properties-and-overview/pe-polymer-plastic-various-properties-and-overview/). 
 
-Simulation resuslts for HDPE. The simulations shows while the from frequency perspective the part is in good hand, it has much lower life expectancy from fatigue is it goes throught the scenario considered earlier. Perhapt this version is more suitable for flat street road game play. 
+Simulation resuslts for HDPE. The simulations shows while the from frequency perspective the part is in good hand, it has much lower life expectancy from fatigue if it goes throught the scenario considered earlier. Perhapt this version is more suitable for flat street road game play. 
 | ![Bracket_01_12_01_PEHD](Bracket_01_12_01_PEHD.PNG)| ![Bracket_01_12_01_PEHD_LC](Bracket_01_12_01_PEHD_LC.PNG) | 
 | :---: | :---: |
 | ![Bracket_01_12_01_PEHD_NF](Bracket_01_12_01_PEHD_NF.PNG)| ![Bracket_01_12_01_PEHD_URes](Bracket_01_12_01_PEHD_URes.PNG) | 
