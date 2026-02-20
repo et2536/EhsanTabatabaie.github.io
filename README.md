@@ -68,7 +68,7 @@ Reducing the thickness of the material from 3mm to 2mm improve weight lost in th
 | Natural frequency analysis | Fatigue FEA results | 
 | :---: | :---: |
 |![Bracket_01_12](Bracket_01_12.PNG)|![Bracket_01_12_01](Bracket_01_12_01.PNG)|
-| An alternative design can be achived by taking another look at the stress distribution here improve the area with green color and even removing the joint at the central part | ![Bracket_01_07](Bracket_01_07.PNG)
+| An alternative design can be achived by taking another look at the stress distribution. On the right side  by improving the area with green color and even removing the area with blue and even the joint at the central part, another dsign will be achived with better stress tolerance. | ![Bracket_01_07](Bracket_01_07.PNG)
 
 
 ## Alternative considerations
