@@ -6,7 +6,7 @@ Welcome to my portfolio! This repository showcases my work in Mechanical Enginee
 
 
 ### :hammer: [Bracket design](https://github.com/et2536/EhsanTabatabaie.github.io/tree/CAD/BracketToyCar/README.md)
-* **Focus:** From a raw concept, FEA approache.
+* **Focus:** From a raw concept, FEA approach.
 * **Tools:** CAD, FEA (SolidWorks).
 
 
