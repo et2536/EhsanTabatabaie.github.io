@@ -2,7 +2,11 @@
 # Laptop Cooling Pad Design with adjustable size and angle
 
 ## 1. Project Overview
-This file contains the CAD design for a Laptop Cooling Pad. The goal was to design a cooling pad using sheet metal.
+This file contains the CAD design for a laptop cooling pad. The goal was to design a cooling pad using sheet metal.
+The aim was to use sheet metal features to create the assembly.
+The pad can be adjusted to three angles.
+The adjustment is easy and simple.
+The packaging is compact and easy to assemble.
 
 ## 2. Design Visuals
 Below are the renderings of the model.
