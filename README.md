@@ -18,7 +18,8 @@ The device can be powered by external power or take its power from a USB port.
 | Another View of the pad  |   |
 | :---: | :---: |
 |![A loptop on the Cooling Pad](3D.JPG) | ![A loptop on the Cooling Pad](preview.JPG) |
-
+| View of the pad with highest Angle |  View of the pad with lowest Angle |
+|![A loptop on the Cooling Pad](03.JPG) | ![A loptop on the Cooling Pad](04.JPG) |
 
 
 
